@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-- I'm a student who is stuyding **Software Engineering**.
+- I'm a student stuyding **Software Engineering**.
 - I'm into traveling, reading, music and freediving.
 - I'm still trying to figure out the "purpose of life", I'm sure that one day I'll have an answer.
 - I have three cats, Tina (American Shorthair), Terry (Golden British Shorthair) and TJ (Silver British Shorthair).
