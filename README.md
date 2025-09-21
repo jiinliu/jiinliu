@@ -1,4 +1,6 @@
+<div align="center">
 <img alt="github-header-banner" src="https://github.com/user-attachments/assets/2890f8fc-c859-4d71-aa36-94b608f47d6b" width="90%"/>
+</div>
 
 # 💫 About Me:
 
